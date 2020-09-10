@@ -1,0 +1,2 @@
+# dajax
+django &amp; jquery
